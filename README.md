@@ -2,13 +2,17 @@
 # Random walk analysis
 
 Random walk is a key concept for many fields of natural science. 
-To learn more about it go to 
+To learn more about the basic random walk theory you can visit
+
 https://en.wikipedia.org/wiki/Random_walk 
+
+I can also recommend read the book by https://global.oup.com/academic/product/first-steps-in-random-walks-9780199234868?cc=fr&lang=en&
 
 # Code for random walks analysis
 
-First I do simulations (jupiter notebook) for the standard random walks analysis. 
-Then I do simulations for the continuous limits of continuous time random walks in 2D, but this can be extended to 3D.
+First I do simulations (jupiter notebook) for the standard random walks analysis in 1D.
+
+Then I do simulations for continuous time random walk model (CTRW) in 2D, but this can be extended to 3D and when the underlying structure is discrete, e.g. network or if underlying surface has more complex heterogeneous topology.
 
 
 # Other materials

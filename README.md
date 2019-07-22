@@ -2,20 +2,26 @@
 # Random walk analysis
 
 Random walk is a key concept for many fields of natural science. 
+Here we consider several types of random walks: 
+1. simple markovian random walks without memory: $X_{n+1} = X_{n} + \epsilon_n$, where $\epsilon_n$ is not step-dependent;
+2. non-markovian random walks with memory, including self-repelling random walks: $X_{n+1} = X_{n} + \epsilon_n(X_{n-1}, ..., X_{n-k}).$ This model was used for modelling of polymer chains.
+
+
 To learn more about the basic random walk theory you can visit
 
 https://en.wikipedia.org/wiki/Random_walk 
 
-I can also recommend read the book by https://global.oup.com/academic/product/first-steps-in-random-walks-9780199234868?cc=fr&lang=en&
 
 # Code for random walks analysis
 
-First I do simulations (jupiter notebook) for the standard random walks analysis in 1D.
+First, in jupiter notebook *random_walks.ipynb* we analyze standard random walks analysis in 1D. 
 
 Then I do simulations for continuous time random walk model (CTRW) in 2D, but this can be extended to 3D and when the underlying structure is discrete, e.g. network or if underlying surface has more complex heterogeneous topology.
 
 
 # Other materials
+
+There is one classical book about random walks https://global.oup.com/academic/product/first-steps-in-random-walks-9780199234868?cc=fr&lang=en&
 
 This project is based on the model described in our recent articles
 

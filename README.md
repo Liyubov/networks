@@ -18,6 +18,8 @@ First, in jupiter notebook *random_walks.ipynb* we analyze standard random walks
 
 Then I do simulations for continuous time random walk model (CTRW) in 2D, but this can be extended to 3D and when the underlying structure is discrete, e.g. network or if underlying surface has more complex heterogeneous topology.
 
+In *analysis_of_trajectories.ipynb* I analyse the random walk trajectories from data or from randomly generated trajectories.
+
 
 # Other materials
 

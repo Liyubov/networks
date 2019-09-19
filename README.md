@@ -21,16 +21,17 @@ Then I do simulations for continuous time random walk model (CTRW) in 2D, but th
 In *analysis_of_trajectories.ipynb* I analyse the random walk trajectories from data or from randomly generated trajectories.
 
 
-# Other materials
+# References and literature materials
 
 There is one classical book about random walks https://global.oup.com/academic/product/first-steps-in-random-walks-9780199234868?cc=fr&lang=en&
 
-This project is based on the model described in our recent articles
-
-L.Tupikina, D.Grebenkov “Temporal and structural heterogeneities in networks” Applied network Journ. (2019)
-D.Grebenkov, L. Tupikina “Heterogeneous continuous time random walk”, link to Physical Rev. E Journal  E 97, 012148 (2018)
-
+This project is based on the model described in our recent articles:
+1. L.Tupikina, D.Grebenkov “Temporal and structural heterogeneities in networks” Applied network Journ. (2019)
+2. D.Grebenkov, L. Tupikina “Heterogeneous continuous time random walk”, link to Physical Rev. E Journal  E 97, 012148 (2018)
 
 The research questions are description of the continuous limits of CTRW (random walk in continuous time on networks), 
 Ito-Stratonovich dilemma. Research project with Ecole Polytechnqiue, CRI 
 https://sites.google.com/view/fellowshipresultsliubov/research-projects/anomalous-diffusion-analysis?authuser=0
+
+For more details and for example of datasets you can look at 
+http://inadilic.fr/data/ 
